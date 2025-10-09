@@ -34,7 +34,6 @@ Chaque projet est pour moi une nouvelle opportunité de grandir.
 
 📧 Email : eslytess@icloud.com
 
-💼 LinkedIn : Alison Da Rocha
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff) 
