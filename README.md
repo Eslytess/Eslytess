@@ -1,35 +1,43 @@
-# Salut, moi c’est Eslytess 👋
+👋 Salut, moi c’est Eslytess
 
-🎯 Je suis actuellement en **recherche d’apprentissage** dans le développement web.
+🎯 J’ai récemment trouvé mon apprentissage dans le développement web, et je suis super motivée à continuer de progresser !
 
-💻 Je me forme **en autodidacte**, tous les jours, avec passion et régularité.
+💻 Je me forme en autodidacte depuis plusieurs mois, et je commence à bien maîtriser HTML et CSS.
+Je construis petit à petit de solides bases en JavaScript, et je prends plaisir à apprendre chaque jour un peu plus.
 
-## 🔧 Compétences en cours d’apprentissage
+🔧 Compétences actuelles
 
-- 🌐 **HTML5** (structure de pages web)
-- 🎨 **CSS3** (mise en page, responsive design)
-- ⚙️ **JavaScript** (bases de l’interactivité)
-- 🧠 J’aime apprendre et progresser un peu chaque jour !
+🌐 HTML5 – création et structuration de pages web
 
-## 🚧 Projets en cours / à venir
+🎨 CSS3 – mise en forme, animations, responsive design
 
-- Portfolio HTML/CSS
-- Petit jeu JavaScript
-- Intégration mobile responsive
+⚙️ JavaScript – bases de la logique et de l’interactivité
 
-## 📚 Objectif
+🧠 Ce que j’aime avant tout : comprendre, créer et expérimenter.
 
-Trouver une **entreprise d’accueil pour un contrat d’apprentissage** et continuer à monter en compétences.
+🚀 Projets et objectifs
 
-## 📫 Me contacter
+Création de mon portfolio personnel
 
-- 📧 Email : eslytess@icloud.com
-- 💼 LinkedIn : https://www.linkedin.com/in/alison-da-rocha-0621a9200?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+Développement d’un petit jeu en JavaScript
 
----
+Approfondir mes connaissances en responsive design et accessibilité
+
+Découvrir de nouveaux langages et trouver ma spécialité dans le code
+
+🌱 Vision pour l’avenir
+
+Mon but est de continuer à apprendre, à me perfectionner et à devenir une développeuse polyvalente et curieuse.
+Chaque projet est pour moi une nouvelle opportunité de grandir.
+
+📫 Me contacter
+
+📧 Email : eslytess@icloud.com
+
+💼 LinkedIn : Alison Da Rocha
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 
-🛠️ *"On n’apprend pas à coder en une nuit, mais on progresse chaque jour."*
+🛠️ « On n’apprend pas à coder en un jour, mais on progresse un peu chaque jour. »
