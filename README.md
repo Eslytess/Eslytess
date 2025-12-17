@@ -7,9 +7,9 @@ Je construis petit à petit de solides bases en JavaScript, et je prends plaisir
 
 🔧 Compétences actuelles
 
-🌐 HTML5 – création et structuration de pages web
+🌐 HTML – création et structuration de pages web
 
-🎨 CSS3 – mise en forme, animations, responsive design
+🎨 CSS – mise en forme, animations, responsive design
 
 ⚙️ JavaScript – bases de la logique et de l’interactivité
 
